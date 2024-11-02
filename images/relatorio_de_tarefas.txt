@@ -1,0 +1,28 @@
+Tarefa: alterar o modal list js, para modal files list, trocar em todos os models
+Tipo: Bug
+Status: Nova
+
+Tarefa: incluir na tabela de indication, description
+Tipo: Addition
+Status: Nova
+
+Tarefa: notes em issues quebrou 
+Tipo: Bug
+Status: Nova
+
+Tarefa: proposal update select add label ajusta campos
+Tipo: Refactoring
+Status: Nova
+
+Tarefa: product falta pagiinação 
+Tipo: Bug
+Status: Nova
+
+Tarefa: Contas, vincular criação de casos
+Tipo: Addition
+Status: Em Progresso
+
+Tarefa: Paginacao em Cotacoes
+Tipo: Bug
+Status: Concluída
+
